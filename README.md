@@ -1,3 +1,13 @@
+---
+title: team-beta-insight
+emoji: 🧪
+colorFrom: blue
+colorTo: gray
+sdk: docker
+app_port: 8080
+pinned: false
+---
+
 # InsightRAG (Team Beta)
 
 Our RAG system achieves **98% accuracy** and answers in **real time**. Fully tested and production ready.
